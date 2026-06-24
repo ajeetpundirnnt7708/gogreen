@@ -5,12 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "generate": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "jsonfile": "^6.2.1",
     "moment": "^2.30.1",
